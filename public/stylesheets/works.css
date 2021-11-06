@@ -1,8 +1,22 @@
 .book-space {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+    padding-bottom: 10%;
 }
 img {
     height: 200px;
+}
+.header-space {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.youtube-vid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 h2 p {
+    font-family: 'Raleway', sans-serif;
 }

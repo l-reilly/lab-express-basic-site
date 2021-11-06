@@ -1,0 +1,12 @@
+.headerInfo img {
+    height: 200px;
+}
+.headerInfo p {
+    font-size: 20px;
+}
+.headerInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+}
