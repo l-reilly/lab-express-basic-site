@@ -1,0 +1,12 @@
+h1 {
+    color: blueviolet;
+}
+img {
+    height: 150px;
+    width: 150px;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
